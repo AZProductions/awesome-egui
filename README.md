@@ -1,2 +1,32 @@
 # egui-collection
-A collection of egui libraries and programs for inspiration
+## Libraries
+- [egui extras_xt](https://github.com/xTibor/egui_extras_xt)
+- [egui dock](https://github.com/Adanos020/egui_dock)
+- [egui_tiles](https://github.com/rerun-io/egui_tiles) 
+- [egui node graph](https://github.com/setzer22/egui_node_graph)
+- [egui_nodes](https://github.com/theoparis/egui_nodes)
+- [egui_cable](https://github.com/ryo33/egui_cable)
+- [egui-gizmo](https://github.com/urholaukkarinen/egui-gizmo)
+- [egui_logger](https://github.com/RegenJacob/egui_logger)
+- [egui_tracing](https://github.com/grievouz/egui_tracing)
+- [egui notify](https://github.com/ItsEthra/egui-notify)
+- [egui-toast](https://github.com/urholaukkarinen/egui-toast)
+- [egui_file dialog](https://github.com/Barugon/egui_file)
+- [egui-modal](https://github.com/n00kii/egui-modal)
+- [egui_commonmark](https://github.com/lampsitter/egui_commonmark)
+- [egui-dropdown](https://github.com/ItsEthra/egui-dropdown)
+- [egui-keybinds](https://github.com/TheRacc2/egui-keybinds)
+- [egui_draganddrop](https://github.com/lucasmerlin/egui_dnd)
+- [egui-video](https://github.com/n00kii/egui-video)
+- [egui_wgpu_plot](https://github.com/kylc/egui_wgpu_plot)
+- [egui pie charts](https://gist.github.com/rctlmk/d386fe0a9d6c36daa042192c970ed6e0)
+- [egui graph](https://github.com/blitzarx1/egui_graphs)
+- [egui_skia](https://github.com/lucasmerlin/egui_skia)
+- [egui-grid](https://github.com/mythitorium/egui-grid)
+- [egui catppuccin theme](https://github.com/catppuccin/egui)
+
+## Programs
+- [netstrat is a strategy backtesting and visualization tool using egui for ui](https://github.com/blitzarx1/netstrat)
+- [dashboard](https://github.com/alemidev/dashboard)
+- [headlines](https://github.com/creativcoder/headlines)
+- [rgis](https://github.com/frewsxcv/rgis)
