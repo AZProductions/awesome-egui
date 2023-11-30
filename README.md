@@ -6,6 +6,7 @@
 - [egui node graph](https://github.com/setzer22/egui_node_graph)
 - [egui_nodes](https://github.com/theoparis/egui_nodes)
 - [walkers (egui maps)](https://github.com/podusowski/walkers)
+- [egui code editor widget](https://github.com/p4ymak/egui_code_editor)
 - [egui_cable](https://github.com/ryo33/egui_cable)
 - [egui-gizmo](https://github.com/urholaukkarinen/egui-gizmo)
 - [egui_logger](https://github.com/RegenJacob/egui_logger)
