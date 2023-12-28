@@ -1,5 +1,6 @@
-# egui-collection
+# awesome-egui (unofficial)
 ## Libraries
+These libraries are in no particular order.
 - [egui extras_xt](https://github.com/xTibor/egui_extras_xt)
 - [egui dock](https://github.com/Adanos020/egui_dock)
 - [egui_tiles](https://github.com/rerun-io/egui_tiles) 
