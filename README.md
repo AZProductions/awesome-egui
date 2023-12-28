@@ -10,6 +10,7 @@
 - [egui_cable](https://github.com/ryo33/egui_cable)
 - [egui-gizmo](https://github.com/urholaukkarinen/egui-gizmo)
 - [egui_logger](https://github.com/RegenJacob/egui_logger)
+- [dear_egui theme](https://github.com/LennysLounge/dear_egui)
 - [egui_tracing](https://github.com/grievouz/egui_tracing)
 - [egui notify](https://github.com/ItsEthra/egui-notify)
 - [egui-toast](https://github.com/urholaukkarinen/egui-toast)
