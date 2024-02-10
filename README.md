@@ -12,6 +12,7 @@ These libraries are in no particular order.
 - [egui-gizmo](https://github.com/urholaukkarinen/egui-gizmo)
 - [egui_logger](https://github.com/RegenJacob/egui_logger)
 - [dear_egui theme](https://github.com/LennysLounge/dear_egui)
+- [egui-snarl](https://github.com/zakarumych/egui-snarl)
 - [egui_tracing](https://github.com/grievouz/egui_tracing)
 - [egui notify](https://github.com/ItsEthra/egui-notify)
 - [egui-toast](https://github.com/urholaukkarinen/egui-toast)
