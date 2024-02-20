@@ -17,6 +17,7 @@ These libraries are in no particular order.
 - [egui notify](https://github.com/ItsEthra/egui-notify)
 - [egui-toast](https://github.com/urholaukkarinen/egui-toast)
 - [egui-shape-editor](https://github.com/antroids/egui-shape-editor)
+- [egui-file-dialog](https://github.com/fluxxcode/egui-file-dialog)
 - [egui_file dialog](https://github.com/Barugon/egui_file)
 - [egui-modal](https://github.com/n00kii/egui-modal)
 - [egui_commonmark](https://github.com/lampsitter/egui_commonmark)
