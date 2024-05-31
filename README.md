@@ -15,6 +15,7 @@ These libraries are in no particular order.
 - [egui-snarl](https://github.com/zakarumych/egui-snarl)
 - [egui_tracing](https://github.com/grievouz/egui_tracing)
 - [egui notify](https://github.com/ItsEthra/egui-notify)
+- [material-egui](https://github.com/toastxc/material-egui)
 - [egui-toast](https://github.com/urholaukkarinen/egui-toast)
 - [egui-shape-editor](https://github.com/antroids/egui-shape-editor)
 - [egui-file-dialog](https://github.com/fluxxcode/egui-file-dialog)
