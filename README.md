@@ -22,6 +22,7 @@ These libraries are in no particular order.
 - [egui_file dialog](https://github.com/Barugon/egui_file)
 - [egui-modal](https://github.com/n00kii/egui-modal)
 - [egui_commonmark](https://github.com/lampsitter/egui_commonmark)
+- [perfect_cursors](https://github.com/lucasmerlin/hello_egui/tree/main/crates%2Fperfect_cursors)
 - [egui-dropdown](https://github.com/ItsEthra/egui-dropdown)
 - [egui-keybinds](https://github.com/TheRacc2/egui-keybinds)
 - [egui_draganddrop](https://github.com/lucasmerlin/egui_dnd)
