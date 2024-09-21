@@ -37,6 +37,7 @@ These libraries are in no particular order.
 - [egui catppuccin theme](https://github.com/catppuccin/egui)
 
 ## Programs
+- [aspectron](https://aspectron.org/en/projects/kaspa-ng.html)
 - [netstrat is a strategy backtesting and visualization tool using egui for ui](https://github.com/blitzarx1/netstrat)
 - [dashboard](https://github.com/alemidev/dashboard)
 - [headlines](https://github.com/creativcoder/headlines)
