@@ -28,6 +28,7 @@ These libraries are in no particular order.
 - [egui_draganddrop](https://github.com/lucasmerlin/egui_dnd)
 - [egui_overlay](https://github.com/coderedart/egui_overlay)
 - [egui-video](https://github.com/n00kii/egui-video)
+- [egui_ratatui](https://github.com/gold-silver-copper/egui_ratatui)
 - [egui_wgpu_plot](https://github.com/kylc/egui_wgpu_plot)
 - [global-hotkey](https://github.com/tauri-apps/global-hotkey)
 - [egui_colors](https://github.com/frankvgompel/egui_colors)
