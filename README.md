@@ -30,7 +30,7 @@ These libraries are in no particular order.
 - [egui-video](https://github.com/n00kii/egui-video)
 - [egui_ratatui](https://github.com/gold-silver-copper/egui_ratatui)
 - [egui_wgpu_plot](https://github.com/kylc/egui_wgpu_plot)
-- [egui-data-table](github.com/kang-sw/egui-data-table)
+- [egui-data-table](https://github.com/kang-sw/egui-data-table)
 - [global-hotkey](https://github.com/tauri-apps/global-hotkey)
 - [egui_colors](https://github.com/frankvgompel/egui_colors)
 - [egui pie charts](https://gist.github.com/rctlmk/d386fe0a9d6c36daa042192c970ed6e0)
