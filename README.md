@@ -53,3 +53,4 @@ These libraries are in no particular order.
 - [dashboard](https://github.com/alemidev/dashboard)
 - [headlines](https://github.com/creativcoder/headlines)
 - [rgis](https://github.com/frewsxcv/rgis)
+- [TMOP, a task manager and system monitor for Windows, Linux and macOS](https://github.com/tekikaito/tmop)
