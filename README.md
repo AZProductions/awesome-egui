@@ -54,3 +54,4 @@ These libraries are in no particular order.
 - [headlines](https://github.com/creativcoder/headlines)
 - [rgis](https://github.com/frewsxcv/rgis)
 - [TMOP, a task manager and system monitor for Windows, Linux and macOS](https://github.com/tekikaito/tmop)
+- [DIYPets](https://github.com/smresponsibilities/diypets) - Cross-platform desktop mascot engine and pixel/SVG creator studio built with egui and winit
