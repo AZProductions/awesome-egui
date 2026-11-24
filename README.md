@@ -54,3 +54,4 @@ These libraries are in no particular order.
 - [headlines](https://github.com/creativcoder/headlines)
 - [rgis](https://github.com/frewsxcv/rgis)
 - [TMOP, a task manager and system monitor for Windows, Linux and macOS](https://github.com/tekikaito/tmop)
+- [JoeBro Desktop, a local-first workspace for Claude Code, Codex and local models on Windows and Linux](https://github.com/joexk1/JoeBro-Desktop)
